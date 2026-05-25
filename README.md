@@ -1,4 +1,4 @@
-# Income-Expenses-Tracker-Dashboard
+# Income-Expense-Tracker-Dashboard
 This is a personal finance dashboard built in Excel that tracks monthly income and expenses for 2026.
 Overview
 This is a personal finance dashboard built in Excel that tracks monthly income and expenses for 2026. It features interactive month-based filtering via a slicer, two separate tracker sections (income and expenses), KPI cards with icons, pie charts, and horizontal bar charts — all on a single dashboard sheet.
@@ -24,5 +24,7 @@ January was the worst by far at -$25,909, driven by the highest dining ($20k) an
 **What's driving income:** Freelance ($635k, 41%) and Salary ($614k, 40%) together account for 81% of all income. Everything else — bonuses, interest, dividends — is supplementary.
 **What's eating into profit:** Rent ($348k, 26%) is the single biggest expense and completely fixed. Shopping ($244k, 19%) is the most volatile and the main reason June turned into a loss. Bills ($191k, 15%) spiked heavily in September and December. These three categories alone account for 60% of all spending.
 
-Author Ugwu Ngozi Cleopatra
+**Author **
+Ugwu Ngozi Cleopatra
+
 Built as part of a data analytics and business intelligence portfolio project
